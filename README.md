@@ -1,2 +1,2 @@
 # sc-projects
-# this repository contains projects completed in stanCode SC101.
+# This repository contains projects completed in stanCode SC101.
